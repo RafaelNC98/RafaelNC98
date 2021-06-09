@@ -2,7 +2,7 @@
 ## Olá,sou o Rafael
 - Eu moro em Águas de Lindóia-SP 🇧🇷.
 - Sou formado em Ciência da Computação pela UNIFAJ :man_student:.
-- Atuamente venho estudando PHP e Redes/Infraestrutura. :nerd_face:
+- Atuamente venho estudando UI/UX e Redes/Infraestrutura. :nerd_face:
 ## Meus contatos
 <a href="https://www.linkedin.com/in/rafael-nadalini-carvalho-6b1966137/" rel="nofollow">
   <img alt="Abhishek's LinkedIN" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;" width="22px" align="left">
